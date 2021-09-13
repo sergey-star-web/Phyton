@@ -6,4 +6,4 @@ def CirleS(R):
 i=0
 while i<3:
  i+=1
- print("Ïëîùàäü ðàâíà:",CirleS(R=float(input())))
+ print("ÃÃ«Ã®Ã¹Ã Ã¤Ã¼ Ã°Ã Ã¢Ã­Ã :",CirleS(R=float(input())))

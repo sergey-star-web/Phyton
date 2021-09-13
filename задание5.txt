@@ -1,6 +1,0 @@
-GC = str(input())
-a = len(GC)
-b=GC.lower().count("g")
-c=GC.lower().count("c")
-res=(b+c)/a*100
-print("Ответ:", res,"%")
